@@ -1,0 +1,12 @@
+public class extends Fragement{
+	@Override
+	public View onCreateView(LayoutInflater inflater,ViewGroup container,
+				Bundle savedInstanceAState){
+				//从布局文件news.xml加载一个布局文件
+				View = inflater.inflate(R.layout.news,container,true);
+				return v;
+				
+				}
+	
+	
+}
